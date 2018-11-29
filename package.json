@@ -40,8 +40,8 @@
     "lib": "lib"
   },
   "dependencies": {
-    "debug": "^3.1.0",
-    "slack": "^11.0.0"
+    "@slack/client": "^4.8.0",
+    "debug": "^3.1.0"
   },
   "devDependencies": {
     "@log4js-node/sandboxed-module": "^2.1.1",
