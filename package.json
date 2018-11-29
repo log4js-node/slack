@@ -1,6 +1,6 @@
 {
-  "name": "@log4js-node/slack",
-  "version": "1.0.0",
+  "name": "@xanthous/log4js-to-slack",
+  "version": "1.1.0",
   "description": "Slack Appender for log4js-node",
   "homepage": "https://log4js-node.github.io/log4js-node/",
   "files": [
@@ -17,13 +17,13 @@
   "license": "Apache-2.0",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",
-  "author": "Gareth Jones <gareth.nomiddlename@gmail.com>",
+  "author": "Gareth Jones <gareth.nomiddlename@gmail.com>, Alex Zhao<zcq.qiqi@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/log4js-node/slack.git"
+    "url": "https://github.com/xanthous-tech/slack"
   },
   "bugs": {
-    "url": "http://github.com/log4js-node/slack/issues"
+    "url": "https://github.com/xanthous-tech/slack/issues"
   },
   "engines": {
     "node": ">=6.0"
